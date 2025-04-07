@@ -67,7 +67,7 @@ Funcionalidades disponibilizadas para os usuarios:
 
 # Guia de Uso
 
-* O dashboar possui uma barra de navegação que é posivel alternar entre os graficos pressionando nos nomes presentes dentro dela
+* O dashboard possui uma barra de navegação que é posivel alternar entre os graficos pressionando nos nomes presentes dentro dela
 * O grafico de "Vendas Globais por Ano" possui uma caixa logo a baixo da barra de navegação para selecionar o gênero de jogo que deseja analisar
 * A esquerda da janela possui uma barra lateral que pode expandir e retrair a partir da seta no canto superior direito da barra
 * Dentro da barra lateral possui uma caixa que é possivel alternar entre as paginas do dashboard
